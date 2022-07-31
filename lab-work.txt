@@ -5,3 +5,11 @@ ADDING THIS FILE IN GITHUB
 form f1
 adding f1's superb feature
 is 1==2 ? no
+hello its f2 
+improving feature of f1
+if (1 == 2)
+{
+   return true;
+
+}
+return false;
