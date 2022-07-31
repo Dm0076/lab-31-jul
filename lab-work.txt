@@ -2,3 +2,6 @@ git lab
 31 jul 2022
 HELLO  SECOND COOMMIT AFTER
 ADDING THIS FILE IN GITHUB
+form f1
+adding f1's superb feature
+is 1==2 ? no
